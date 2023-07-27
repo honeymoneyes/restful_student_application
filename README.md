@@ -1,8 +1,8 @@
 Technologies Used:
 
---- Spring Boot
---- Spring Data JPA
---- PostgreSQL Database
+Spring Boot
+Spring Data JPA
+PostgreSQL Database
 Configuration Steps:
 
 Clone the Application:
